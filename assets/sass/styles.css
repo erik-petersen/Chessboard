@@ -388,7 +388,7 @@ table {
     top: 2.85em;
     right: 21em;
     font-size: 1.72em;
-    color: #fff; }
+    color: blue; }
 
   .file-last {
     width: 4.7619%;
@@ -397,7 +397,7 @@ table {
     display: block;
     clear: both;
     position: relative;
-    bottom: 65.25em;
+    bottom: 70.25em;
     left: 55em;
     font-size: .55em;
     color: #fff; }
@@ -428,7 +428,7 @@ table {
 
   .see-moves {
     clear: both;
-    margin-left: 11em;
+    margin-left: 10em;
     background: #777; }
 
   .step-backward,
