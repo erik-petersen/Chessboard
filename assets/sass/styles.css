@@ -352,9 +352,6 @@ table {
   ul {
     margin-left: 1.25em; }
 
-  .column-header-top {
-    margin-top: .25em; }
-
   .column-header-top span {
     position: relative;
     top: 1.15em;
@@ -386,7 +383,7 @@ table {
     margin-right: 1.19048%;
     position: relative;
     top: 2.85em;
-    right: 21em;
+    right: 18em;
     font-size: 1.72em;
     color: blue; }
 

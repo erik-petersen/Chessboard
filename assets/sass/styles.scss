@@ -395,7 +395,7 @@
   }
 
   .column-header-top {
-    margin-top: .25em;
+    // margin-top: .25em;
   }
 
   .column-header-top span {
@@ -432,7 +432,7 @@
     @include span( 1 of 17 ); // each li will take up 1 column
     position: relative;
     top: 2.85em;
-    right: 21em;
+    right: 18em;
     font-size: $rankFileSize + .57em;
     color: blue;
   }
