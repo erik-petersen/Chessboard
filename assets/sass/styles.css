@@ -350,7 +350,7 @@ table {
       clear: both; }
 
   ul {
-    margin-left: 1.6em; }
+    margin-left: 1.25em; }
 
   .column-header-top {
     margin-top: .25em; }
@@ -428,7 +428,7 @@ table {
 
   .see-moves {
     clear: both;
-    margin-left: 11.75em;
+    margin-left: 11em;
     background: #777; }
 
   .step-backward,

@@ -391,7 +391,7 @@
   } // end main
 
   ul {
-    @include pre(1.6em);
+    @include pre(1.25em);
   }
 
   .column-header-top {
@@ -478,7 +478,7 @@
 
   .see-moves {
     @include break;
-    @include pre(11.75em);
+    @include pre(11em);
     background: #777;
   }
 
