@@ -346,7 +346,7 @@
 } // end media query ( min-width: 31em ) and ( max-width: 54em )
 
 
-@media screen and ( min-width: 62.5em ) {
+// @media screen and ( min-width: 768px ) {
 
   $squareWidth: 63px;
   $squareHeight: 52px;
@@ -499,4 +499,4 @@
     display: none;
   }
 
-}
+// }
