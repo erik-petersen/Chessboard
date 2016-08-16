@@ -354,7 +354,7 @@
   $headerFont: "Cinzel", serif;
 
   h1 {
-    margin-top: .65em;
+    margin-top: .45em;
     margin-left: .25em;
     text-align: center;
     font-family: $headerFont;
@@ -432,7 +432,7 @@
     @include span( 1 of 17 ); // each li will take up 1 column
     position: relative;
     top: 2.85em;
-    right: 19.1em;
+    right: 19em;
     font-size: $rankFileSize + .57em;
     color: #fff;
   }

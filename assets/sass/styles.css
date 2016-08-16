@@ -317,7 +317,7 @@ table {
     display: none; } }
 @media screen and (min-width: 62em) {
   h1 {
-    margin-top: .65em;
+    margin-top: .45em;
     margin-left: .25em;
     text-align: center;
     font-family: "Cinzel", serif;
@@ -383,7 +383,7 @@ table {
     margin-right: 1.19048%;
     position: relative;
     top: 2.85em;
-    right: 19.1em;
+    right: 19em;
     font-size: 1.72em;
     color: #fff; }
 
