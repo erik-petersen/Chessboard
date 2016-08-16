@@ -385,7 +385,7 @@
     width: 44%;
     height: 42.25em;
     box-sizing: border-box;
-    margin-top: 1.15em;
+    margin-top: 1em;
     padding-left: 40px;
     background-color: black;
   } // end main
@@ -432,7 +432,7 @@
     @include span( 1 of 17 ); // each li will take up 1 column
     position: relative;
     top: 2.85em;
-    right: 18.75em;
+    right: 19.1em;
     font-size: $rankFileSize + .57em;
     color: #fff;
   }
