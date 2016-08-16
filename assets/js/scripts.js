@@ -223,7 +223,16 @@ $( function() {
         // counter = counter;
       });
 
+      if( counter === 9 ) {
+        clearInterval( interval );
+        $( ".play" ).show( 500 );
+        $( ".pause" ).hide( 500 );
+      }
+
       counter++;
+      forwardClicks = counter - 1;
+      console.log( counter );
+
     }, 1000);
   }, 1000 ); //end setTimeout()
   }); // end click play
